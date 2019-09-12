@@ -4,3 +4,6 @@ A just-for-fun exploratory analysis project presented by Chad Boschert at the in
 
 ## Project Overview
 This project includes 3 Jupyter Notebooks. Each numbered notebook digs deeper into the heuristic "I before E except after C" using an english words database borrowed from [@dwyl](https://github.com/dwyl/english-words)
+
+## Derived Datasets
+The two .csv files in the ./data/derived folder can be used to perform your own explorations in Excel or other tool of choice. These datasets include just the ie and ei words along with other helpful features. Enjoy!
